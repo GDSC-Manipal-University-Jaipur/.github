@@ -1,1 +1,1 @@
-# .github
+# GDSC Manipal University Jaipur
