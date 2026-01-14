@@ -19,6 +19,6 @@ We at GDG on campus MUJ believe in open-source softwares and thrive to collabora
   # Join our Community :
 
 <a href="https://www.linkedin.com/company/gdscmuj/mycompany/"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg"  height="50" width="50"></a> &ensp;
-<a href=""><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="50" width="50" margin-top="100" /></a>&ensp;
+<a href="https://discord.gg/ESJjnD8zEH"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="50" width="50" margin-top="100" /></a>&ensp;
 <a href="https://www.instagram.com/gdscmuj"><img align="center" src="https://www.svgrepo.com/show/111199/instagram.svg" height="50" width="50" /></a>
 <br> <br>
